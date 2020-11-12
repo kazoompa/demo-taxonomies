@@ -1,0 +1,26 @@
+!!org.obiba.opal.core.domain.taxonomy.Taxonomy
+"name": "my_taxonomy"
+"title":
+  "en": "My Taxonomy"
+"description":
+  "en": "This is a demo file on how to create Opal taxonomy files"
+"attributes": {}
+"author": "Moi"
+"keywords": {}
+"license": "My License"
+"vocabularies":
+- "name": "vocabulary1"
+  "title":
+    "en": "Vocabulary One"
+  "description":
+    "en": "This is Vocabulary one"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "term1"
+    "title":
+      "en": "Term One"
+    "description":
+      "en": "This is term one"
+    "attributes": {}
+    "keywords": {}
