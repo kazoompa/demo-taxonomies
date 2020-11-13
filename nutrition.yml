@@ -1,0 +1,34 @@
+!!org.obiba.opal.core.domain.taxonomy.Taxonomy
+"name": "nutrition"
+"title":
+  "en": "Nutrition"
+"description":
+  "en": "This is nutrition taxonomy"
+"attributes": {}
+"author": "Moi"
+"keywords": {}
+"license": "My License"
+"vocabularies":
+- "name": "fruit"
+  "title":
+    "en": "Fruit"
+  "description":
+    "en": "This is fruit vocabulary"
+  "attributes": {}
+  "keywords": {}
+  "terms":
+  - "name": "apple"
+    "title":
+      "en": "Apple"
+    "description":
+      "en": "This is apple term"
+    "attributes": {}
+    "keywords": {}
+  "terms":
+  - "name": "pear"
+    "title":
+      "en": "Pear"
+    "description":
+      "en": "This is pear term"
+    "attributes": {}
+    "keywords": {}
